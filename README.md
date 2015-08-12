@@ -1,6 +1,3 @@
-@@ -0,0 +1,36 @@
-<snippet>
-  <content><![CDATA[
 # Project Name
 
 TODO: Write a project description
